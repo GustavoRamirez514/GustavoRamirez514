@@ -2,6 +2,9 @@
 <h3 align="center">Me considero un apasionado de la programación y estoy en constante búsqueda de nuevos desafíos para desarrollar mis habilidades.</h3>
 
 - 📫 Puedes contactarme por: **tavo200079.gr@gmail.com**
+- 💬 Estoy comprometido con el aprendizaje continuo y la mejora constante de mis habilidades.
+- 📄 Soy un escucha activo y estoy dispuesto a trabajar con otros para alcanzar un objetivo común
+- ⚡ Estoy Buscando una oportunidad para utilizar mis habilidades y conocimientos
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
