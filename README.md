@@ -4,8 +4,9 @@
 - 📫 Puedes contactarme por: **tavo200079.gr@gmail.com**
 - 👨‍💻 Puedes saber un poco más de mi en mi portafolio: **GustavoRamirez.com**
 - 💬 Estoy comprometido con el aprendizaje continuo y la mejora constante de mis habilidades.
-- 📄 Soy un escucha activo y estoy dispuesto a trabajar con otros para alcanzar un objetivo común
-- ⚡ Estoy Buscando una oportunidad para utilizar mis habilidades y conocimientos
+- 👯 Me destaco por mi capacidad de trabajar en equipo y mi habilidad para comunicar de manera efectiva con colegas.
+- 📄 Soy un escucha activo y estoy dispuesto a trabajar con otros para alcanzar un objetivo común.
+- ⚡ Estoy Buscando una oportunidad para utilizar mis habilidades y conocimientos.
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
