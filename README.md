@@ -2,7 +2,7 @@
 <h3 align="center">Me considero un apasionado de la programación y estoy en constante búsqueda de nuevos desafíos para desarrollar mis habilidades.</h3>
 
 - 📫 Puedes contactarme por: **tavo200079.gr@gmail.com**
-- 👨‍💻 Puedes saber un poco más de mi en mi portafolio: **GustavoRamirez.com**
+- 👨‍💻 Puedes saber un poco más de mi en mi portafolio: **https://gustavoramirez514.github.io/Gustavo-Ramirez-514/**
 - 💬 Estoy comprometido con el aprendizaje continuo y la mejora constante de mis habilidades.
 - 👯 Me destaco por mi capacidad de trabajar en equipo y mi habilidad para comunicar de manera efectiva con colegas.
 - 📄 Soy un escucha activo y estoy dispuesto a trabajar con otros para alcanzar un objetivo común.
