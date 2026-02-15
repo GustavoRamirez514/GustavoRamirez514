@@ -1,18 +1,91 @@
-<h1 align="center">Hola 👋, Soy Gustavo Ramirez</h1>
-<h3 align="center">Me considero un apasionado de la programación y estoy en constante búsqueda de nuevos desafíos para desarrollar mis habilidades.</h3>
-
-- 📫 Puedes contactarme por: **tavo200079.gr@gmail.com**
-- 👨‍💻 Puedes saber un poco más de mi en mi portafolio: **https://gustavoramirez514.github.io/Gustavo-Ramirez-514/**
-- 💬 Estoy comprometido con el aprendizaje continuo y la mejora constante de mis habilidades.
-- 👯 Me destaco por mi capacidad de trabajar en equipo y mi habilidad para comunicar de manera efectiva con colegas.
-- 📄 Soy un escucha activo y estoy dispuesto a trabajar con otros para alcanzar un objetivo común.
-- ⚡ Estoy Buscando una oportunidad para utilizar mis habilidades y conocimientos.
-
-<h3 align="left">Conectate conmigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gustavoramirez514/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo adolfo ramirez" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21135238/gustavo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="316004/gustavo" height="30" width="40" /></a>
+<h1 align="center">Hola 👋, soy Gustavo Ramírez</h1>
+<p align="center">
+Desarrollador web con enfoque en <b>backend (Laravel + PostgreSQL)</b>. Trabajo con <b>integraciones</b>, <b>optimización de rendimiento</b> y sistemas en producción que no pueden parar.
 </p>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<p align="center">
+<b>Cali, Colombia</b> · Remoto (COL/LATAM/Global) · 📫 <b>tavo200079.gr@gmail.com</b>
+</p>
+
+<hr/>
+
+<h3>En qué estoy fuerte</h3>
+
+<ul>
+  <li><b>Laravel + PostgreSQL</b>: APIs, lógica de negocio, consultas, índices, PL/pgSQL.</li>
+  <li><b>Frontend para módulos administrativos</b>: AngularJS y Vue (React/Node según proyecto).</li>
+  <li><b>Operación real</b>: módulos que corren 24/7, foco en estabilidad y performance.</li>
+  <li><b>Integraciones</b>: Banco de Bogotá, Payflow, Siigo (vía tercero por APIs) y próximas integraciones como GeoVictoria.</li>
+</ul>
+
+<h3>Lo más representativo</h3>
+<ul>
+  <li>
+    <b>Módulo “Producción en línea” (24/7)</b>: control en tiempo real de planta (unidades, tiempos muertos, defectos, trazabilidad), 
+    usando <b>tablets por línea</b> y desplegado en <b>más de 30 ubicaciones</b> a nivel nacional.
+  </li>
+  <li>
+    <b>Rendimiento en Azure Database for PostgreSQL</b>: participé en la estabilización de un pico de CPU (~90%) ajustando 
+    <b>PL/pgSQL, triggers e índices</b>, devolviendo el consumo a niveles esperados (~60%).
+  </li>
+  <li>
+    Sistema interno con operación de <b>~3.000 empleados</b> y <b>~500 facturas/mes</b>.
+  </li>
+</ul>
+
+<h3>Qué busco</h3>
+<ul>
+  <li>Trabajo <b>remoto</b> por proyecto o por entregables (mantenimiento/evolución, integraciones, performance, backend).</li>
+  <li>Si tienes backlog de módulos, integraciones o consultas lentas, probablemente puedo ayudarte.</li>
+</ul>
+
+<h3 align="left">Conéctate conmigo</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/gustavoramirez514/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Gustavo Ramírez" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/21135238/gustavo" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow Gustavo" height="30" width="40" />
+  </a>
+  <a href="https://gustavoramirez514.github.io/Gustavo-Ramirez-514/" target="_blank">
+    🌐 Portafolio
+  </a>
+</p>
+
+<h3 align="left">Stack principal</h3>
+<p align="left">
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  </a>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://angularjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="40" height="40"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" width="40" height="40"/>
+  </a>
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/azure/postgresql/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">También he usado (según proyecto)</h3>
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+</p>
